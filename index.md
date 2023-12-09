@@ -17,11 +17,11 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
 
 I have served as a Teaching Assistant for the following courses:
 
-- [CS 7643: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Spring 2023. Georgia Institute of Technology, Atlanta.
+- [CS 7643: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Spring 2023, Georgia Institute of Technology, Atlanta.
 - [CSE 6740: Computational Data Analysis](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Fall 2022. Georgia Institute of Technology, Atlanta.
-- [CS 7650: Natural Language Processing](https://aritter.github.io/CS-7650-sp22/), Spring 2022. Georgia Institute of Technology, Atlanta.
-- [CS 4641: Machine Learning](https://aritter.github.io/CS-4641/), Fall 2021. Georgia Institute of Technology, Atlanta.
-- [CSO 101: Computer Programming and Linux](https://sites.google.com/site/pratikchattopadhyay/programming), Fall & Spring 2017. Indian Institute of Technology, Varanasi.
+- [CS 7650: Natural Language Processing](https://aritter.github.io/CS-7650-sp22/), Spring 2022, Georgia Institute of Technology, Atlanta.
+- [CS 4641: Machine Learning](https://aritter.github.io/CS-4641/), Fall 2021, Georgia Institute of Technology, Atlanta.
+- [CSO 101: Computer Programming and Linux](https://sites.google.com/site/pratikchattopadhyay/programming), Fall & Spring 2017, Indian Institute of Technology, Varanasi.
 
 
 # Contact
