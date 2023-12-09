@@ -29,6 +29,12 @@
       #more-content {
           display: none;
       }
+
+      .toggle-text {
+          cursor: pointer;
+          text-decoration: underline;
+          text-decoration-style: dotted;
+      }
     </style>
   
 
@@ -115,14 +121,15 @@
     <script>
       function toggleContent() {
           var moreContent = document.getElementById("more-content");
+          var briefContent = document.getElementById("brief-content");
           var button = document.getElementById("toggle-button");
 
           if (moreContent.style.display === "none") {
               moreContent.style.display = "block";
-              button.textContent = "Collapse";
+              briefContent.style.display = "none";
           } else {
               moreContent.style.display = "none";
-              button.textContent = "Know more";
+              briefContent.style.display = "block";
           }
       }
   </script>

@@ -6,9 +6,14 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 **Personal Interests**: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
 
 <div id="content">
-<p id="brief-content">Brief content here...</p>
-<p id="more-content" style="display:none;">More detailed content goes here...</p>
-<button onclick="toggleContent()" id="toggle-button">Know more</button>
+<p id="brief-content">
+    Brief content here...
+    <span class="toggle-text" onclick="toggleContent()" id="toggle-button">know more</span>
+</p>
+<p id="more-content" style="display:none;">
+    More detailed content goes here...
+    <span class="toggle-text" onclick="toggleContent()">collapse</span>
+</p>
 </div>
 
 # Publications
