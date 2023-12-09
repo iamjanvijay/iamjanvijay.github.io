@@ -3,7 +3,7 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 **Research Interests**: Fair, Equitable and Human-Centered AI; AI Applications with Social Impact. 
 
-**Personal Interests**: Running; Biking; Martial Arts; Photography; Stoic Philosophy; Music. 
+**Personal Interests**: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
 
 # Publications
 
