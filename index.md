@@ -11,19 +11,17 @@ I am a Machine Learning Engineer/Researcher at Verneek AI.
 
 Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89.pdf). *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)*, Abu Dhabi, UAE, December 2022.
 
-\* denotes equal author contribution.
-
-*The complete list of my publications is accessible on my Google Scholar profile*.
+\* denotes equal author contribution. *The complete list of my publications is accessible on my Google Scholar profile*.
 
 # Teaching
 
 I have served as a Teaching Assistant for the following courses:
 
-- [CS 7643: Deep Learning (Spring 2023)](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Georgia Institute of Technology, Atlanta.
-- [CSE 6740: Computational Data Analysis (Fall 2022)](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Georgia Institute of Technology, Atlanta.
-- [CS 7650: Natural Language Processing (Spring 2022)](https://aritter.github.io/CS-7650-sp22/), Georgia Institute of Technology, Atlanta.
-- [CS 4641: Machine Learning (Fall 2021)](https://aritter.github.io/CS-4641/), Georgia Institute of Technology, Atlanta.
-- [CSO 101: Computer Programming and Linux (Fall & Spring 2017)](https://sites.google.com/site/pratikchattopadhyay/programming), Indian Institute of Technology, Varanasi.
+- [CS 7643: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Spring 2023. Georgia Institute of Technology, Atlanta.
+- [CSE 6740: Computational Data Analysis](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Fall 2022. Georgia Institute of Technology, Atlanta.
+- [CS 7650: Natural Language Processing](https://aritter.github.io/CS-7650-sp22/), Spring 2022. Georgia Institute of Technology, Atlanta.
+- [CS 4641: Machine Learning](https://aritter.github.io/CS-4641/), Fall 2021. Georgia Institute of Technology, Atlanta.
+- [CSO 101: Computer Programming and Linux](https://sites.google.com/site/pratikchattopadhyay/programming), Fall & Spring 2017. Indian Institute of Technology, Varanasi.
 
 
 # Contact
