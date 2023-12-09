@@ -25,6 +25,10 @@
         /* font-size: 1em; Adjust the font size as needed */
         /* height: 20px; Set the height of the badge */
       }
+
+      #more-content {
+          display: none;
+      }
     </style>
   
 
@@ -108,6 +112,21 @@
         <p><small>Last update: {{ site.time | date: '%m/%d/%Y' }}</small></p>
       </footer>      
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      function toggleContent() {
+          var moreContent = document.getElementById("more-content");
+          var button = document.getElementById("toggle-button");
+
+          if (moreContent.style.display === "none") {
+              moreContent.style.display = "block";
+              button.textContent = "Collapse";
+          } else {
+              moreContent.style.display = "none";
+              button.textContent = "Know more";
+          }
+      }
+  </script>
+
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

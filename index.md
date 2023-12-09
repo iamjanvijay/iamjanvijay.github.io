@@ -5,6 +5,12 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 **Personal Interests**: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
 
+<div id="content">
+<p id="brief-content">Brief content here...</p>
+<p id="more-content" style="display:none;">More detailed content goes here...</p>
+<button onclick="toggleContent()" id="toggle-button">Know more</button>
+</div>
+
 # Publications
 
 **Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [Enhancing Textbooks with Visuals from the Web for Improved Learning](https://arxiv.org/pdf/2304.08931.pdf). *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)*, Singapore, December 2023.
