@@ -1,5 +1,9 @@
 # About
-I am a Machine Learning Engineer/Researcher at Verneek AI.
+**Bio**: I'm a Machine Learning Engineer/Researcher at [Verneek AI](https://www.verneek.com/), focusing on developing personalized e-commerce search. I hold a Master's in Computer Science from Georgia Tech, with a focus on Machine Learning and a keen interest in Natural Language Processing and its societal applications. Before joining Georgia Tech, I led speech recognition and synthesis research at Walmart India, playing a key role in developing a [multilingual voice assistant](https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/). My Computer Science academic journey began at IIT Varanasi, where I graduated with the second highest grades in my class. Please see my CV for more details.
+
+**Research Interests**: These are my research interests.
+
+**Personal Interests**: These are my personal interests.
 
 # Publications
 
@@ -11,7 +15,7 @@ I am a Machine Learning Engineer/Researcher at Verneek AI.
 
 Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89.pdf). *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)*, Abu Dhabi, UAE, December 2022.
 
-\* denotes equal author contribution. *The complete list of my publications is accessible on my Google Scholar profile*.
+\* denotes equal author contribution. The complete list of my publications is accessible on my Google Scholar profile.
 
 # Teaching
 
