@@ -5,7 +5,7 @@ I am a Machine Learning Engineer/Researcher at Verneek AI.
 
 **Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [Enhancing Textbooks with Visuals from the Web for Improved Learning](https://arxiv.org/pdf/2304.08931.pdf). *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)*, Singapore, December 2023.
 
-**Janvijay Singh**\*, Mukund Rungta\*, Diyi Yang, Saif Mohammad. [Forgotten Knowledge: Examining the Citational Amnesia in NLP](https://aclanthology.org/2023.acl-long.341v2.pdf). *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)*, Toronto, Canada, July 2023. <span class="award-badge">🏆 Best Resource Paper</span>
+**Janvijay Singh**\*, Mukund Rungta\*, Diyi Yang, Saif Mohammad. [Forgotten Knowledge: Examining the Citational Amnesia in NLP](https://aclanthology.org/2023.acl-long.341v2.pdf). *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)*, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>
 
 **Janvijay Singh**, Fan Bai, Zhen Wang. [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://aclanthology.org/2023.eacl-main.90.pdf). *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)*, Singapore, May 2023.
 
