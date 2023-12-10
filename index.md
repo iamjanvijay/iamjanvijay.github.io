@@ -1,5 +1,5 @@
 # About
-I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on developing personalized e-commerce search. Previously, I have led applied research in speech recognition and synthesis at Walmart India, playing a key role in developing a <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">multilingual voice assistant</a>. I hold a Master's in Computer Science (CS) from Georgia Tech.  My CS academic journey began at IIT Varanasi, where I graduated with top honors in my class. Please refer to my CV for details.
+I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on developing personalized e-commerce search. Previously, I have led applied research in speech recognition and synthesis at Walmart India, playing a key role in developing a <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">multilingual voice assistant</a>. On the academic side, I've completed a Master's in Computer Science with a Machine Learning specialization at Georgia Tech. My educational journey began at IIT Varanasi, where I earned my bachelor's in Computer Science with top honors. For further details, please refer to my CV.
 
 <!-- <div id="career-content">
     <strong>Career Trajectory:</strong>
