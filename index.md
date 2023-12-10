@@ -7,14 +7,14 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 <div id="content">
 <strong>Research Interests</strong>:
-<p id="brief-content">
+<div id="brief-content">
     Brief content here...
     <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
-</p>
-<p id="more-content" style="display:none;">
+</div>
+<div id="more-content" style="display:none;">
     More detailed content goes here...
     <span class="toggle-text" onclick="toggleContent()">highlights</span>
-</p>
+</div>
 </div>
 
 # Publications
