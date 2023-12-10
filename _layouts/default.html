@@ -121,23 +121,37 @@
         <p><small>Last update: {{ site.time | date: '%m/%d/%Y' }}</small></p>
       </footer>      
     </div>
+    
     <script>
       function toggleContent(contentId, briefId, moreId, buttonId) {
-          var moreContent = document.getElementById(moreId);
-          var briefContent = document.getElementById(briefId);
-          var button = document.getElementById(buttonId);
-  
-          if (moreContent.style.display === "none" || moreContent.style.display === "") {
-              moreContent.style.display = "block";
-              briefContent.style.display = "none";
-              button.innerText = "collapse"; // Update button text
-          } else {
-              moreContent.style.display = "none";
-              briefContent.style.display = "block";
-              button.innerText = "expand"; // Update button text
-          }
+        var moreContent = document.getElementById(moreId);
+        var briefContent = document.getElementById(briefId);
+        var button = document.getElementById(buttonId);
+    
+        if (moreContent.style.display === "none" || moreContent.style.display === "") {
+          moreContent.style.display = "block";
+          briefContent.style.display = "none";
+          button.innerText = "collapse"; // Update button text
+        } else {
+          moreContent.style.display = "none";
+          briefContent.style.display = "block";
+          button.innerText = "expand"; // Update button text
+        }
       }
-  </script>
+    
+      // Separate functions for each section
+      function toggleCareerContent() {
+        toggleContent("career-more-content", "career-brief-content", "career-toggle-button");
+      }
+    
+      function toggleResearchContent() {
+        toggleContent("research-more-content", "research-brief-content", "research-toggle-button");
+      }
+    
+      function togglePersonalContent() {
+        toggleContent("personal-more-content", "personal-brief-content", "personal-toggle-button");
+      }
+    </script>    
   
 
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
