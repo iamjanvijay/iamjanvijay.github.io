@@ -54,7 +54,17 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89.pdf). *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)*, Abu Dhabi, UAE, December 2022.
 
-\* denotes equal author contribution. The complete list of my publications is accessible on my Google Scholar profile.
+<div id="personal-content">
+    <span id="personal-brief-content">
+        <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">Show more. </span>
+    </span>
+    <span id="personal-more-content" style="display:none;">
+        Mukund Rungta*, Janvijay Singh*, Saif Mohammad, Diyi Yang. [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89.pdf). *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)*, Abu Dhabi, UAE, December 2022.
+        <span class="toggle-text" onclick="togglePersonalContent()">Show less. </span>
+    </span>
+</div>
+
+\* denotes equal author contribution.
 
 # Teaching
 
