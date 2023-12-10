@@ -59,10 +59,12 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
         <span class="toggle-text" onclick="toggleCareerContent()" id="career-toggle-button">Show more.</span>
     </span>
     <p id="career-more-content" style="display:none;">
+        <div style="margin-bottom: 20px;">
         Mukund Rungta*, <strong>Janvijay Singh</strong>*, Saif Mohammad, Diyi Yang. <a href="https://aclanthology.org/2022.emnlp-main.89.pdf">Geographic Citation Gaps in NLP Research</a>. <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)</i>, Abu Dhabi, UAE, December 2022.
-        <br/>
+        </div>
+        <div style="margin-bottom: 20px;">
         Mukund Rungta*, <strong>Janvijay Singh</strong>*, Saif Mohammad, Diyi Yang. <a href="https://aclanthology.org/2022.emnlp-main.89.pdf">Geographic Citation Gaps in NLP Research</a>. <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)</i>, Abu Dhabi, UAE, December 2022.
-        <br/>
+        </div>
         <span class="toggle-text" onclick="toggleCareerContent()">Show less.</span>
     </p>
 </div>
