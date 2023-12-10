@@ -59,9 +59,9 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
         <span class="toggle-text" onclick="toggleCareerContent()" id="career-toggle-button">Show more.</span>
     </span>
     <p id="career-more-content" style="display:none;">
-        <strong>Janvijay Singh</strong>, Anshul Wadhawan. <a href="https://aclanthology.org/2020.wnut-1.35.pdf">Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings</a>. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), EMNLP</i>, Online, November 2020. <span class="award-badge">Shared Task Winner</span>.
+        <strong>Janvijay Singh</strong>, Anshul Wadhawan. <a href="https://aclanthology.org/2020.wnut-1.35.pdf">Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings</a>. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), at EMNLP 2020</i>, Online, November 2020. <span class="award-badge">Shared Task Winner</span>.
         <br><br>
-        <strong>Janvijay Singh</strong>. <a href="https://aclanthology.org/2020.finnlp-1.9.pdf">Sentence and List Extraction in Noisy PDF Text Using a Hybrid Deep Learning and Rule-Based Approach</a>. <i>Proceedings of the Second Workshop on Financial Technology and Natural Language Processing (FinNLP 2020), IJCAI-PRICAI</i>, Kyoto, Japan, January 2020. <span class="award-badge">Shared Task Winner</span>.
+        <strong>Janvijay Singh</strong>. <a href="https://aclanthology.org/2020.finnlp-1.9.pdf">Sentence and List Extraction in Noisy PDF Text Using a Hybrid Deep Learning and Rule-Based Approach</a>. <i>Proceedings of the Second Workshop on Financial Technology and Natural Language Processing (FinNLP 2020) at IJCAI-PRICAI 2020</i>, Kyoto, Japan, January 2020. <span class="award-badge">Shared Task Winner</span>.
         <br><br>
         <strong>Janvijay Singh</strong>, Raviraj Joshi. <a href="https://ieeexplore.ieee.org/document/8906597">Background Sound Classification in Speech Audio Segments</a>. <i>Proceedings of the Tenth International Conference on Speech Technology and Human-Computer Dialogue (SpED 2019)</i>, Timișoara, Romania, October 2019.
         <br><br>
