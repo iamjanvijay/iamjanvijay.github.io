@@ -15,22 +15,22 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 <div id="research-content">
     <p id="research-brief-content">
-        <strong>Research Interests:</strong> Fair, Equitable, and Human-Centered AI; AI Applications with Social Impact.
+        My research interests include <strong>Equitable</strong>, <strong>Fair</strong>, and <strong>Human-Centered</strong> AI, as well as AI <strong>applications</strong> with a focus on <strong>social impact</strong>. 
         <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">expand</span>
     </p>
     <p id="research-more-content" style="display:none;">
-        <strong>Research Interests:</strong> More detailed content goes here...
+        More detailed content for research interests goes here...
         <span class="toggle-text" onclick="toggleResearchContent()">highlights</span>
     </p>
 </div>
 
 <div id="personal-content">
     <p id="personal-brief-content">
-        <strong>Personal Interests</strong>: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
+        In my free time, I enjoy engaging in running, biking, martial arts, photography, Stoic philosophy, and music.
         <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">expand</span>
     </p>
     <p id="personal-more-content" style="display:none;">
-        <strong>Personal Interests</strong>: More detailed content goes here...
+        More detailed content for personal interests goes here...
         <span class="toggle-text" onclick="togglePersonalContent()">highlights</span>
     </p>
 </div>
