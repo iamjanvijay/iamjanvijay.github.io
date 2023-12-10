@@ -14,25 +14,25 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 </div> -->
 
 <div id="research-content">
-    <p id="research-brief-content">
+    <span id="research-brief-content">
         My research interests include <strong>Equitable</strong>, <strong>Fair</strong>, and <strong>Human-Centered AI</strong>, as well as <strong>AI applications</strong> with a focus on <strong>social impact</strong>. 
-        <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">More Details</span>.
-    </p>
-    <p id="research-more-content" style="display:none;">
+        <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">More Details</span>
+    </span>.
+    <span id="research-more-content" style="display:none;">
         More detailed content for research interests goes here...
-        <span class="toggle-text" onclick="toggleResearchContent()">Fewer Details</span>.
-    </p>
+        <span class="toggle-text" onclick="toggleResearchContent()">Fewer Details</span>
+    </span>.
 </div>
 
 <div id="personal-content">
-    <p id="personal-brief-content">
+    <span id="personal-brief-content">
         In my free time, I enjoy engaging in running, biking, martial arts, photography, Stoic philosophy, and music.
         <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">More Details</span>
-    </p>
-    <p id="personal-more-content" style="display:none;">
+    </span>.
+    <span id="personal-more-content" style="display:none;">
         More detailed content for personal interests goes here...
-        <span class="toggle-text" onclick="togglePersonalContent()">Fewer Details</span>.
-    </p>
+        <span class="toggle-text" onclick="togglePersonalContent()">Fewer Details</span>
+    </span>.
 </div>
 
 
