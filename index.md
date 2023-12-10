@@ -5,11 +5,11 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     <strong>Career Trajectory:</strong>
     <span id="career-brief-content">
         M.S. in Computer Science (ML specialization) @Georgia Tech. Applied Research in <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">Speech Recognition and Synthesis</a> @ Walmart India.  B.Tech. in Computer Science @ IIT Varanasi.
-        <span class="toggle-text" onclick="toggleContent()" id="career-toggle-button">expand</span>
+        <span class="toggle-text" onclick="toggleCareerContent()" id="career-toggle-button">expand</span>
     </span>
     <p id="career-more-content" style="display:none;">
         Previously, I also led applied research in speech recognition and synthesis at Walmart India, playing a key role in developing a <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">multilingual voice assistant</a>. I hold a MS in Computer Science (CS) from Georgia Tech, specializing in ML with a keen interest in Natural Language Processing and its societal applications.  My CS academic journey began at IIT Varanasi, where I graduated with the second-highest grades in my class. Please find more details in my CV.
-        <span class="toggle-text" onclick="toggleContent()">highlights</span>
+        <span class="toggle-text" onclick="toggleCareerContent()">highlights</span>
     </p>
 </div>
 
@@ -17,11 +17,11 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     <strong>Research Interests:</strong>
     <span id="research-brief-content">
         Fair, Equitable, and Human-Centered AI; AI Applications with Social Impact.
-        <span class="toggle-text" onclick="toggleContent()" id="research-toggle-button">expand</span>
+        <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">expand</span>
     </span>
     <p id="research-more-content" style="display:none;">
         More detailed content goes here...
-        <span class="toggle-text" onclick="toggleContent()">highlights</span>
+        <span class="toggle-text" onclick="toggleResearchContent()">highlights</span>
     </p>
 </div>
 
@@ -29,13 +29,14 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     <strong>Personal Interests:</strong>
     <span id="personal-brief-content">
         Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
-        <span class="toggle-text" onclick="toggleContent()" id="personal-toggle-button">expand</span>
+        <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">expand</span>
     </span>
     <p id="personal-more-content" style="display:none;">
         More detailed content goes here...
-        <span class="toggle-text" onclick="toggleContent()">highlights</span>
+        <span class="toggle-text" onclick="togglePersonalContent()">highlights</span>
     </p>
 </div>
+
 
 # Publications
 
