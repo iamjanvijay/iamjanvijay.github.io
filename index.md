@@ -15,12 +15,12 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 <div id="research-content">
     <p id="research-brief-content">
-        My research interests include <strong>Equitable</strong>, <strong>Fair</strong>, and <strong>Human-Centered</strong> AI, as well as AI <strong>applications</strong> with a focus on <strong>social impact</strong>. 
-        <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">expand</span>
+        My research interests include <strong>Equitable</strong>, <strong>Fair</strong>, and <strong>Human-Centered AI</strong>, as well as <strong>AI applications</strong> with a focus on <strong>social impact</strong>. 
+        <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">[More Details]</span>
     </p>
     <p id="research-more-content" style="display:none;">
         More detailed content for research interests goes here...
-        <span class="toggle-text" onclick="toggleResearchContent()">highlights</span>
+        <span class="toggle-text" onclick="toggleResearchContent()">[Less Details]</span>
     </p>
 </div>
 
