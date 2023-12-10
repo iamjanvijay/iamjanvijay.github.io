@@ -6,15 +6,15 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 **Personal Interests**: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
 
 <div id="content">
-<strong>Research Interests</strong>:
-<div id="brief-content">
-    Brief content here...
-    <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
-</div>
-<div id="more-content" style="display:none;">
-    More detailed content goes here...
-    <span class="toggle-text" onclick="toggleContent()">highlights</span>
-</div>
+    <strong>Research Interests</strong>:
+    <p id="brief-content">
+        Fair, Equitable, and Human-Centered AI; AI Applications with Social Impact.
+        <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
+    </p>
+    <p id="more-content" style="display:none;">
+        More detailed content goes here...
+        <span class="toggle-text" onclick="toggleContent()">highlights</span>
+    </p>
 </div>
 
 # Publications
