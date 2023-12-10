@@ -24,6 +24,8 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     </span>
 </div>
 
+<br/>
+
 <div id="personal-content">
     <span id="personal-brief-content">
         In my free time, I enjoy engaging in running, biking, martial arts, photography, Stoic philosophy, and music.
@@ -35,6 +37,7 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     </span>
 </div>
 
+<br/>
 
 # Publications
 
