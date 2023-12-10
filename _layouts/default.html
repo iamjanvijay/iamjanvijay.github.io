@@ -123,20 +123,20 @@
     </div>
     
     <script>
-      function toggleContent(contentId, briefId, moreId, buttonId) {
-        var moreContent = document.getElementById(moreId);
-        var briefContent = document.getElementById(briefId);
-        var button = document.getElementById(buttonId);
-    
-        if (moreContent.style.display === "none" || moreContent.style.display === "") {
-          moreContent.style.display = "block";
-          briefContent.style.display = "none";
-          button.innerText = "collapse"; // Update button text
-        } else {
-          moreContent.style.display = "none";
-          briefContent.style.display = "block";
-          button.innerText = "expand"; // Update button text
-        }
+      function toggleContent(moreId, briefId, buttonId) {
+          var moreContent = document.getElementById(moreId);
+          var briefContent = document.getElementById(briefId);
+          var button = document.getElementById(buttonId);
+  
+          if (moreContent.style.display === "none" || moreContent.style.display === "") {
+              moreContent.style.display = "block";
+              briefContent.style.display = "none";
+              button.innerText = "collapse"; // Update button text
+          } else {
+              moreContent.style.display = "none";
+              briefContent.style.display = "block";
+              button.innerText = "expand"; // Update button text
+          }
       }
     
       // Separate functions for each section
