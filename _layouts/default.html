@@ -126,8 +126,8 @@
           var moreContent = document.getElementById(moreId);
           var briefContent = document.getElementById(briefId);
           var button = document.getElementById(buttonId);
-
-          if (moreContent.style.display === "none") {
+  
+          if (moreContent.style.display === "none" || moreContent.style.display === "") {
               moreContent.style.display = "block";
               briefContent.style.display = "none";
               button.innerText = "collapse"; // Update button text
@@ -138,6 +138,7 @@
           }
       }
   </script>
+  
 
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
