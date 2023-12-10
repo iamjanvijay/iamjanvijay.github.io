@@ -14,25 +14,23 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 </div> -->
 
 <div id="research-content">
-    <strong>Research Interests:</strong>
-    <span id="research-brief-content">
-        Fair, Equitable, and Human-Centered AI; AI Applications with Social Impact.
+    <p id="research-brief-content">
+        <strong>Research Interests:</strong> Fair, Equitable, and Human-Centered AI; AI Applications with Social Impact.
         <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">expand</span>
-    </span>
+    </p>
     <p id="research-more-content" style="display:none;">
-        More detailed content goes here...
+        <strong>Research Interests:</strong> More detailed content goes here...
         <span class="toggle-text" onclick="toggleResearchContent()">highlights</span>
     </p>
 </div>
 
 <div id="personal-content">
-    <strong>Personal Interests:</strong>
-    <span id="personal-brief-content">
-        Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
+    <p id="personal-brief-content">
+        <strong>Personal Interests</strong>: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
         <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">expand</span>
-    </span>
+    </p>
     <p id="personal-more-content" style="display:none;">
-        More detailed content goes here...
+        <strong>Personal Interests</strong>: More detailed content goes here...
         <span class="toggle-text" onclick="togglePersonalContent()">highlights</span>
     </p>
 </div>
