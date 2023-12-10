@@ -29,13 +29,7 @@
         /* height: 20px; Set the height of the badge */
       }
 
-      #more-content-1 {
-          display: none;
-      }
-      #more-content-2 {
-          display: none;
-      }
-      #more-content-3 {
+      #more-content {
           display: none;
       }
 
@@ -128,42 +122,20 @@
       </footer>      
     </div>
     <script>
-      function toggleContent() {
-          var moreContent_1 = document.getElementById("more-content-1");
-          var briefContent_1 = document.getElementById("brief-content-1");
-          var moreContent_2 = document.getElementById("more-content-2");
-          var briefContent_2 = document.getElementById("brief-content-2");
-          var moreContent_3 = document.getElementById("more-content-3");
-          var briefContent_3 = document.getElementById("brief-content-3");
+      function toggleContent(contentId, briefId, moreId, buttonId) {
+          var moreContent = document.getElementById(moreId);
+          var briefContent = document.getElementById(briefId);
+          var button = document.getElementById(buttonId);
 
-          var button_1 = document.getElementById("toggle-button-1");
-          var button_2 = document.getElementById("toggle-button-2");
-          var button_3 = document.getElementById("toggle-button-3");
-
-          if (moreContent_1.style.display === "none") {
-              moreContent_1.style.display = "block";
-              briefContent_1.style.display = "none";
+          if (moreContent.style.display === "none") {
+              moreContent.style.display = "block";
+              briefContent.style.display = "none";
+              button.innerText = "collapse"; // Update button text
           } else {
-              moreContent_1.style.display = "none";
-              briefContent_1.style.display = "block";
+              moreContent.style.display = "none";
+              briefContent.style.display = "block";
+              button.innerText = "expand"; // Update button text
           }
-
-          if (moreContent_2.style.display === "none") {
-              moreContent_2.style.display = "block";
-              briefContent_2.style.display = "none";
-          } else {
-              moreContent_2.style.display = "none";
-              briefContent_2.style.display = "block";
-          }
-
-          if (moreContent_3.style.display === "none") {
-              moreContent_3.style.display = "block";
-              briefContent_3.style.display = "none";
-          } else {
-              moreContent_3.style.display = "none";
-              briefContent_3.style.display = "block";
-          }
-
       }
   </script>
 
