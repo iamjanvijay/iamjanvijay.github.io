@@ -1,9 +1,20 @@
 # About
 I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on developing personalized e-commerce search. Previously, I led applied research in speech recognition and synthesis at Walmart, playing a key role in developing a [multilingual voice assistant](https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/). I hold a MS in Computer Science (CS) from Georgia Tech, specializing in ML with a keen interest in Natural Language Processing and its societal applications.  My CS academic journey began at IIT Varanasi, where I graduated with the second-highest grades in my class. Please find more details in my CV.
 
-**Research Interests**: <div id="content"> <p id="brief-content"> Fair, Equitable and Human-Centered AI; AI Applications with Social Impact.<span class="toggle-text" onclick="toggleContent()" id="toggle-button"> expand </span> </p> <p id="more-content" style="display:none;"> This area of research focuses on developing Artificial Intelligence technologies that prioritize fairness and equity in their design and implementation. It involves ensuring that AI systems are free from biases, particularly those that could perpetuate societal inequalities.<span class="toggle-text" onclick="toggleContent()"> highlights </span> </p> </div>
+**Research Interests**: Fair, Equitable and Human-Centered AI; AI Applications with Social Impact. 
 
-**Personal Interests**: <div id="content"> <p id="brief-content"> Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music.<span class="toggle-text" onclick="toggleContent()" id="toggle-button"> expand </span> </p> <p id="more-content" style="display:none;"> This area of research focuses on developing Artificial Intelligence technologies that prioritize fairness and equity in their design and implementation. It involves ensuring that AI systems are free from biases, particularly those that could perpetuate societal inequalities.<span class="toggle-text" onclick="toggleContent()"> highlights </span> </p> </div>
+**Personal Interests**: Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
+
+<div id="content">
+<p id="brief-content">
+    Brief content here...
+    <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
+</p>
+<p id="more-content" style="display:none;">
+    More detailed content goes here...
+    <span class="toggle-text" onclick="toggleContent()">highlights</span>
+</p>
+</div>
 
 # Publications
 
