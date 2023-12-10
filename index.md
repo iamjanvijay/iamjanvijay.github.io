@@ -42,7 +42,7 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 **Janvijay Singh**\*, Mukund Rungta\*, Diyi Yang, Saif Mohammad. [Forgotten Knowledge: Examining the Citational Amnesia in NLP](https://aclanthology.org/2023.acl-long.341v2.pdf). *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)*, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>.
 
-**Janvijay Singh**, Fan Bai, Zhen Wang. [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://aclanthology.org/2023.eacl-main.90.pdf). *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)*, Singapore, May 2023.
+**Janvijay Singh**, Fan Bai, Zhen Wang. [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://aclanthology.org/2023.eacl-main.90.pdf). *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)*, Dubrovnik, Croatia, May 2023.
 
 Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89.pdf). *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)*, Abu Dhabi, UAE, December 2022.
 
