@@ -1,37 +1,36 @@
 # About
 I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on developing personalized e-commerce search. 
-
-<div id="content">
+<div id="content-1">
     <strong>Career Trajectory:</strong>
-    <span id="brief-content">
+    <span id="brief-content-1">
         M.S. in Computer Science (ML specialization) @Georgia Tech. Applied Research in <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">Speech Recognition and Synthesis</a> @ Walmart India.  B.Tech. in Computer Science @ IIT Varanasi.
-        <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
+        <span class="toggle-text" onclick="toggleContent()" id="toggle-button-1">expand</span>
     </span>
-    <p id="more-content" style="display:none;">
+    <p id="more-content-1" style="display:none;">
         Previously, I also led applied research in speech recognition and synthesis at Walmart India, playing a key role in developing a <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">multilingual voice assistant</a>. I hold a MS in Computer Science (CS) from Georgia Tech, specializing in ML with a keen interest in Natural Language Processing and its societal applications.  My CS academic journey began at IIT Varanasi, where I graduated with the second-highest grades in my class. Please find more details in my CV.
         <span class="toggle-text" onclick="toggleContent()">highlights</span>
     </p>
 </div>
 
-<div id="content">
+<div id="content-2">
     <strong>Research Interests:</strong>
-    <span id="brief-content">
+    <span id="brief-content-2">
         Fair, Equitable, and Human-Centered AI; AI Applications with Social Impact.
-        <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
+        <span class="toggle-text" onclick="toggleContent()" id="toggle-button-2">expand</span>
     </span>
-    <p id="more-content" style="display:none;">
+    <p id="more-content-2" style="display:none;">
         More detailed content goes here...
         <span class="toggle-text" onclick="toggleContent()">highlights</span>
     </p>
 </div>
 
-<div id="content">
+<div id="content-3">
     <strong>Personal Interests:</strong>
-    <span id="brief-content">
+    <span id="brief-content-3">
         Running, Biking, Martial Arts, Photography, Stoic Philosophy, Music. 
-        <span class="toggle-text" onclick="toggleContent()" id="toggle-button">expand</span>
+        <span class="toggle-text" onclick="toggleContent()" id="toggle-button-3">expand</span>
     </span>
-    <p id="more-content" style="display:none;">
+    <p id="more-content-3" style="display:none;">
         More detailed content goes here...
         <span class="toggle-text" onclick="toggleContent()">highlights</span>
     </p>
