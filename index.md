@@ -31,12 +31,19 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
 
 <div id="personal-content">
     <span id="personal-brief-content">
-        Apart from research and academics, I nurture myself with running, biking, martial arts, photography, Stoic philosophy, and music.
+        Apart from research and academics, I nurture myself with running, biking, photography, Stoic philosophy, and music.
         <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">Show more. </span>
     </span>
     <span id="personal-more-content" style="display:none;">
-        More detailed content for personal interests goes here...
-        <span class="toggle-text" onclick="togglePersonalContent()">Show less. </span>
+        Apart from research and academics, I nurture myself with running, biking, photography, Stoic philosophy, and music.
+
+        Since 2020, I've immersed myself in long-distance running, completing 3 half-marathons with a best time of 2:04:54, including one solely on an 800m track. Recently, I secured a spot in the <a href="https://www.nyrr.org/races/2024unitedairlinesnychalf">2024 NYC HALF-MARATHON</a> and am setting my sights on the upcoming <a href="https://www.nyrr.org/tcsnycmarathon">NYC FULL-MARATHON</a>. Besides running, my longest biking journey in one trip was 50.69 miles.
+
+        Photography is my creative outlet, focusing on landscapes and nature. Explore my work on <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">Flickr</a> to see the world through my lens.
+
+        I enjoy reading with a fondness for biographies and philosophy. Through biographies, I gain insights from others' life stories, helping me to adopt a hopeful, broad perspective on my life. Stoic philosophy particularly appeals to me, not just in theory but in practice. Its perspective of the universe as an interconnected system, with each of us playing a part, shapes my understanding of life's events as contributing to a larger purpose. If you're new to stoic philosopy, I recommend this translation of Marcus Aurelius' <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Meditations</a>.
+
+        In the realm of music, I enjoy a spectrum from hard/post-rock to Sufi music, a blend that mirrors my varied interests. If you're intrigued by this mix, check out <a href="https://youtu.be/aloSwQ7DZsI?list=PLic13xDAzEH7UICVjy4nnNcT_TCQ96EUr">Andre Antunes' work</a>, where these genres converge harmoniously. <span class="toggle-text" onclick="togglePersonalContent()">Show less. </span>
     </span>
 </div>
 
