@@ -24,7 +24,10 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     </span>
 </div>
 
-<br/>
+
+
+
+
 
 <div id="personal-content">
     <span id="personal-brief-content">
@@ -37,7 +40,9 @@ I'm a Machine Learning (ML) Researcher/Engineer at Verneek AI, focusing on devel
     </span>
 </div>
 
-<br/>
+
+
+
 
 # Publications
 
