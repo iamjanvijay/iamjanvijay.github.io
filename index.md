@@ -15,13 +15,13 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 <div id="research-content">
     <span id="research-brief-content">
-        My research interests include <strong>Equitable</strong>, <strong>Fair</strong>, and <strong>Human-Centered AI</strong>, as well as <strong>AI applications</strong> with a focus on <strong>social impact</strong>. 
-        <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">Show more.</span>
+        My current research interests encompass all aspects of <strong>reasoning in LLMs</strong> and <strong>societally impactful AI applications</strong>.
+        <!-- <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">Show more.</span> -->
     </span>
-    <span id="research-more-content" style="display:none;">
-        My research interests include <strong>Equitable</strong>, <strong>Fair</strong>, and <strong>Human-Centered AI</strong>, as well as <strong>AI applications</strong> with a focus on <strong>social impact</strong>. Broadly, I'm drawn to the intersection of AI and society, especially as AI's integration into our lives becomes more prevalent. Echoing Prof. Fei Fei Li's words from her memoir, "It matters what motivates the development of AI, in both science and industry, and I believe that motivation must explicitly center on human benefit," my research motivation follows a similar ethos. Key questions I want to explore include: <i>How can we design, develop and evaluate AI models to ensure equitable and fair benefits across the entire spectrum of humanity</i>? <i>How can we best leverage AI advancements to uplift underprivileged communities in profoundly impactful areas like education and healthcare</i>? I am excited to tackle the challenges in answering these questions with interdisciplinary knowledge, aiming to use AI as a catalyst to bridge socio-economic gaps in society.
+    <!-- <span id="research-more-content" style="display:none;">
+        My current research interests include all aspects of <strong>reasoning in LLMs</strong> and <strong>societally impactful AI applications</strong>. Broadly, I'm drawn to the intersection of AI and society, especially as AI's integration into our lives becomes more prevalent. Echoing Prof. Fei Fei Li's words from her memoir, "It matters what motivates the development of AI, in both science and industry, and I believe that motivation must explicitly center on human benefit," my research motivation follows a similar ethos. Key questions I want to explore include: <i>How can we design, develop and evaluate AI models to ensure equitable and fair benefits across the entire spectrum of humanity</i>? <i>How can we best leverage AI advancements to uplift underprivileged communities in profoundly impactful areas like education and healthcare</i>? I am excited to tackle the challenges in answering these questions with interdisciplinary knowledge, aiming to use AI as a catalyst to bridge socio-economic gaps in society.
         <span class="toggle-text" onclick="toggleResearchContent()">Show less.</span>
-    </span>
+    </span> -->
 </div>
 
 
@@ -31,24 +31,25 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 <div id="personal-content">
     <span id="personal-brief-content">
-        Apart from research and academics, I nurture my "self" with running, biking, photography, Stoic philosophy, and music.
-        <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">Show more. </span>
+        Apart from research and academics, I nurture my self with running (3x half), biking (50+ miles at a time), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Stoic philosophy</a>, and crocheting.
+        <!-- Apart from research and academics, I nurture my "self" with running (3x half-marathon), biking (50+ miles in a go), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Stoic philosophy</a>, and croteching. -->
+        <!-- <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">Show more. </span> -->
     </span>
-    <span id="personal-more-content" style="display:none;">
-        Apart from research and academics, I nurture my "self" with running, biking, photography, Stoic philosophy, and music.
+    <!-- <span id="personal-more-content" style="display:none;"> -->
+        <!-- Apart from research and academics, I nurture my "self" with running, biking, photography, Stoic philosophy, and music. -->
 
-        <br><br>
+        <!-- <br><br> -->
 
-        Since 2020, I've been actively engaged in long-distance running, completing three half-marathons with a best time of 2:04:54, one of which was on an 800m track. This passion has led me to secure a spot in the 2024 <a href="https://www.nyrr.org/races/2024unitedairlinesnychalf">NYC Half-Marathon</a>, with ambitions for the <a href="https://www.nyrr.org/tcsnycmarathon">Full Marathon</a> soon after. My interest in biking complements my running; I've covered distances up to 50.69 miles in a single journey.
+        <!-- Since 2020, I've been actively engaged in long-distance running, completing three half-marathons with a best time of 2:04:54, one of which was on an 800m track. This passion has led me to secure a spot in the 2024 <a href="https://www.nyrr.org/races/2024unitedairlinesnychalf">NYC Half-Marathon</a>, with ambitions for the <a href="https://www.nyrr.org/tcsnycmarathon">Full Marathon</a> soon after. My interest in biking complements my running; I've covered distances up to 50.69 miles in a single journey. -->
 
-        <br><br>
+        <!-- <br><br> -->
 
-        Turning to my creative side, photography allows me to capture and share the beauty of landscapes and nature. You can explore these visual stories on my <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">Flickr</a> page. My reading preferences lean towards biographies and philosophy, offering insights into other's lives and broader perspectives on my own. Stoic philosophy, in particular, resonates with me. Its perspective of the universe as an intelligent and interconnected system, with each of us playing a part, strengthens my understanding of life's events as contributing to a larger purpose. For those curious about Stoicism, I recommend <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Marcus Aurelius' 'Meditations'</a> as a good starting point.
+        <!-- Turning to my creative side, photography allows me to capture and share the beauty of landscapes and nature. You can explore these visual stories on my <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">Flickr</a> page. My reading preferences lean towards biographies and philosophy, offering insights into other's lives and broader perspectives on my own. Stoic philosophy, in particular, resonates with me. Its perspective of the universe as an intelligent and interconnected system, with each of us playing a part, strengthens my understanding of life's events as contributing to a larger purpose. For those curious about Stoicism, I recommend <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Marcus Aurelius' 'Meditations'</a> as a good starting point. -->
 
-        <br><br>
+        <!-- <br><br> -->
 
-        Music is the final chord in my symphony of interests, where I find harmony in the diverse rhythms of hard/post-rock and Sufi music. If this unique blend piques your interest, <a href="https://youtu.be/aloSwQ7DZsI?list=PLic13xDAzEH7UICVjy4nnNcT_TCQ96EUr">Andre Antunes' work</a> is a must-listen, beautifully merging these genres. <span class="toggle-text" onclick="togglePersonalContent()">Show less. </span>
-    </span>
+        <!-- Music is the final chord in my symphony of interests, where I find harmony in the diverse rhythms of hard/post-rock and Sufi music. If this unique blend piques your interest, <a href="https://youtu.be/aloSwQ7DZsI?list=PLic13xDAzEH7UICVjy4nnNcT_TCQ96EUr">Andre Antunes' work</a> is a must-listen, beautifully merging these genres. <span class="toggle-text" onclick="togglePersonalContent()">Show less. </span> -->
+    <!-- </span> -->
 </div>
 
 
