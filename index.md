@@ -1,5 +1,7 @@
 # About
-I'm a Machine Learning Researcher/Engineer at Verneek AI, focusing on developing personalized e-commerce search. Previously, I have led applied research in speech recognition and synthesis at Walmart India, playing a key role in developing a <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">multilingual voice assistant</a>. On the academic side, I've completed a Master's in Computer Science with a Machine Learning specialization at Georgia Tech. My educational journey began at IIT Varanasi, where I earned my bachelor's in Computer Science with top honors. For further details, please refer to my CV.
+I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> at UIUC, advised by Prof. <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Dilek Hakkani-Tur</a> and Prof. <a href="https://www.linkedin.com/in/gokhan-tur-3294953/">Gokhan Tur</a>.
+
+Previously, I worked on a social recommendation models at TikTok, personalized multimodal search at Verneek AI, and led speech recognition and synthesis research at Walmart India, contributing to a <a href="https://stories.flipkart.com/use-voice-assistant-to-buy-groceries-flipkart/">multilingual voice assistant</a>. Academically, I hold a Master's in Computer Science (Machine Learning) from Georgia Tech and a Bachelor's in Computer Science with top honors from IIT Varanasi. For further details, please refer to my CV.
 
 <!-- <div id="career-content">
     <strong>Career Trajectory:</strong>
