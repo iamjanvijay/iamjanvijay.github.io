@@ -31,7 +31,7 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 <div id="personal-content">
     <span id="personal-brief-content">
-        Apart from research and academics, I nurture my self with running (3x half), biking (50+ miles at a time), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Stoic philosophy</a>, and crocheting.
+        Apart from research and academics, I nurture my <a href="https://en.wikipedia.org/wiki/Self">self</a> with running (3x half), <a href="https://www.strava.com/athletes/102324351">biking</a> (50+ miles at a time), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.goodreads.com/user/show/134833570">reading</a>, crocheting, and appreciating <a href="https://youtu.be/bp9YVQcOjgo?list=PLic13xDAzEH7UICVjy4nnNcT_TCQ96EUr">artistic blends</a>.
         <!-- Apart from research and academics, I nurture my "self" with running (3x half-marathon), biking (50+ miles in a go), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Stoic philosophy</a>, and croteching. -->
         <!-- <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">Show more. </span> -->
     </span>
@@ -56,7 +56,13 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 
 
-# Publications
+# Publications & Preprints
+
+**Janvijay Singh**, Austin Xu, Yefan Zhou, Yilun Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *arXiv preprint arXiv:2509.23542;*, September 2025.
+
+Yefan Zhou, Austin Xu, Yilun Zhou, **Janvijay Singh**, Jialu Gui, Shafiq Joty. [Variation in Verification: Understanding Verification Dynamics in Large Language Models](https://arxiv.org/abs/2509.17995). *arXiv preprint arXiv:2509.17995*, September 2025.
+
+**Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://arxiv.org/pdf/2505.01592). *Proceedings of the First Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM), at NeurIPS 2025*, San Diego, Decemeber 2025.
 
 **Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [Enhancing Textbooks with Visuals from the Web for Improved Learning](https://arxiv.org/pdf/2304.08931.pdf). *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)*, Singapore, December 2023.
 
