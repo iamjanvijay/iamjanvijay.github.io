@@ -15,7 +15,7 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 <div id="research-content">
     <span id="research-brief-content">
-        My current <i>research interests</i> lie in <strong>reasoning in LLMs</strong>, with a focus on characterizing and modeling design-attributes of human-like reasoning that are not yet well captured in current models, such as abstraction and generalization. In machine learning terms, my interests relate to efficient and adaptive abstractions, systematic generalization, and interpretability approaches for LLM reasoning.
+        My current research interests lie in <strong>reasoning in LLMs</strong>, with a focus on <i>characterizing and modeling design-attributes of human-like reasoning</i> that are not yet well captured in current models, such as abstraction and generalization. In machine learning terms, my interests relate to efficient and adaptive abstractions, systematic generalization, and interpretability approaches for LLM reasoning.
         <!-- <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">Show more.</span> -->
     </span>
     <!-- <span id="research-more-content" style="display:none;">
