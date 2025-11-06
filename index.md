@@ -94,7 +94,7 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
 
 I have served as a Teaching Assistant for the following courses:
 
-- [CS 546: Advanced Topics in NLP](https://blender.cs.illinois.edu/course/fall24/anlp.html), Fall 2025, University of Illinois, Urabana-Champaign.
+- [CS 546: Advanced Topics in NLP](https://blender.cs.illinois.edu/course/fall24/anlp.html), Fall 2025, University of Illinois, Urbana-Champaign.
 - [CS 7643: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Spring 2023, Georgia Institute of Technology, Atlanta.
 - [CSE 6740: Computational Data Analysis](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Fall 2022. Georgia Institute of Technology, Atlanta.
 - [CS 7650: Natural Language Processing](https://aritter.github.io/CS-7650-sp22/), Spring 2022, Georgia Institute of Technology, Atlanta.
