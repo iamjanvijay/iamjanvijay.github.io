@@ -31,7 +31,7 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 <div id="personal-content">
     <span id="personal-brief-content">
-        Apart from research and academics, I nurture my <a href="https://en.wikipedia.org/wiki/Self">self</a> with running (3x half), <a href="https://www.strava.com/athletes/102324351">biking</a> (50+ miles at a time), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.goodreads.com/user/show/134833570">reading</a>, and crocheting.
+        Apart from research and academics, I nurture my self with running (3x half), <a href="https://www.strava.com/athletes/102324351">biking</a> (50+ miles at a time), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.goodreads.com/user/show/134833570">reading</a>, and crocheting.
         <!-- , and appreciating <a href="https://youtu.be/bp9YVQcOjgo?list=PLic13xDAzEH7UICVjy4nnNcT_TCQ96EUr">artistic blends</a>. -->
         <!-- Apart from research and academics, I nurture my "self" with running (3x half-marathon), biking (50+ miles in a go), <a href="https://www.flickr.com/photos/197236258@N04/with/52582953958">photography</a>, <a href="https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255">Stoic philosophy</a>, and croteching. -->
         <!-- <span class="toggle-text" onclick="togglePersonalContent()" id="personal-toggle-button">Show more. </span> -->
