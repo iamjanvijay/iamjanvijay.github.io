@@ -16,7 +16,7 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 <div id="research-content">
     <span id="research-brief-content">
         <!-- My current research interests lie in <strong>reasoning in LLMs</strong>, with a focus on <i>characterizing and modeling design attributes of human-like reasoning</i> that are not yet holistically captured in current models, such as abstraction and generalization. In machine learning terms, my interests relate to efficient and adaptive abstractions, systematic generalization, and interpretability approaches for LLM reasoning. -->
-        My current research interests lie in <strong>reasoning in LLMs</strong>, with a focus on <i>characterizing and modeling design attributes of human-like reasoning</i>, such as abstraction and generalization, that are not yet holistically captured in current models. In machine learning terms, my interests relate to efficient and adaptive abstractions, systematic generalization, and interpretability approaches for LLM reasoning.
+        My current research interests lie in <strong>reasoning in LLMs</strong>, with a focus on <i>characterizing and modeling design attributes of human-like reasoning</i>, such as abstraction and generalization, that are not yet holistically captured in current models. In machine learning terminology, my interests relate to efficient and adaptive abstractions, systematic generalization, and interpretability approaches for LLM reasoning.
         <!-- <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">Show more.</span> -->
     </span>
     <!-- <span id="research-more-content" style="display:none;">
@@ -97,7 +97,7 @@ I have served as a Teaching Assistant for the following courses:
 
 - [CS 546: Advanced Topics in NLP](https://blender.cs.illinois.edu/course/fall24/anlp.html), Fall 2025, University of Illinois, Urbana-Champaign.
 - [CS 7643: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Spring 2023, Georgia Institute of Technology, Atlanta.
-- [CSE 6740: Computational Data Analysis](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Fall 2022. Georgia Institute of Technology, Atlanta.
+- [CSE 6740: Computational Data Analysis](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Fall 2022, Georgia Institute of Technology, Atlanta.
 - [CS 7650: Natural Language Processing](https://aritter.github.io/CS-7650-sp22/), Spring 2022, Georgia Institute of Technology, Atlanta.
 - [CS 4641: Machine Learning](https://aritter.github.io/CS-4641/), Fall 2021, Georgia Institute of Technology, Atlanta.
 - [CSO 101: Computer Programming and Linux](https://sites.google.com/site/pratikchattopadhyay/programming), Fall & Spring 2017, Indian Institute of Technology, Varanasi.
