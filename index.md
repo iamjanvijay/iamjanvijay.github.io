@@ -15,7 +15,9 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 <div id="research-content">
     <span id="research-brief-content">
-        My current research interests encompass all aspects of <strong>reasoning in LLMs</strong> and <strong>societally impactful AI applications</strong>.
+        My research interests lie in <strong>reasoning in Large Language Models</strong> (LLMs), with a focus on characterizing and modeling aspects of human-like reasoning that are currently missing in these systems.
+        I view human-like reasoning through a design lens, characterized by attributes such as abstraction and easy-to-hard generalization, and I am interested in how holistically LLMs capture these attributes.
+        In machine learning terms, my intersts relates to efficient and adaptive abstractions, systematic generalization, and interpretability approaches for reasoning.
         <!-- <span class="toggle-text" onclick="toggleResearchContent()" id="research-toggle-button">Show more.</span> -->
     </span>
     <!-- <span id="research-more-content" style="display:none;">
@@ -58,9 +60,9 @@ I'm a CS PhD student in the <a href="https://uiuc-conversational-ai-lab.github.i
 
 # Publications & Preprints
 
-**Janvijay Singh**, Austin Xu, Yefan Zhou, Yilun Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *arXiv preprint arXiv:2509.23542;*, September 2025.
+**Janvijay Singh**, Austin Xu, Yefan Zhou, Yilun Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *arXiv preprint*, September 2025.
 
-Yefan Zhou, Austin Xu, Yilun Zhou, **Janvijay Singh**, Jialu Gui, Shafiq Joty. [Variation in Verification: Understanding Verification Dynamics in Large Language Models](https://arxiv.org/abs/2509.17995). *arXiv preprint arXiv:2509.17995*, September 2025.
+Yefan Zhou, Austin Xu, Yilun Zhou, **Janvijay Singh**, Jialu Gui, Shafiq Joty. [Variation in Verification: Understanding Verification Dynamics in Large Language Models](https://arxiv.org/abs/2509.17995). *arXiv preprint*, September 2025.
 
 **Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://arxiv.org/pdf/2505.01592). *Proceedings of the First Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM), at NeurIPS 2025*, San Diego, Decemeber 2025.
 
@@ -93,6 +95,7 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
 
 I have served as a Teaching Assistant for the following courses:
 
+- [CS 546: Advanced Topics in NLP](https://blender.cs.illinois.edu/course/fall24/anlp.html), Fall 2025, University of Illinois, Urabana-Champaign.
 - [CS 7643: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/index.html), Spring 2023, Georgia Institute of Technology, Atlanta.
 - [CSE 6740: Computational Data Analysis](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202008&subj_code_in=CSE&crse_numb_in=6740), Fall 2022. Georgia Institute of Technology, Atlanta.
 - [CS 7650: Natural Language Processing](https://aritter.github.io/CS-7650-sp22/), Spring 2022, Georgia Institute of Technology, Atlanta.
@@ -101,4 +104,4 @@ I have served as a Teaching Assistant for the following courses:
 
 
 # Contact
-The best way to reach me is via email: janvijay [dot] singh [dot] cse14 [at] gmail [dot] com
+The best way to reach me is via email: jvsingh2 [at] illinois [dot] edu OR janvijay [dot] singh [dot] cse14 [at] gmail [dot] com
