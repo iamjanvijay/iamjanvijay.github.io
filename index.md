@@ -62,6 +62,8 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 # Publications & Preprints
 
+**Janvijay Singh**, Dilek Hakkani-Tur. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *arXiv preprint*, January 2026.
+
 **Janvijay Singh**, Austin Xu, Yefan Zhou, Yilun Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *arXiv preprint*, September 2025.
 
 Yefan Zhou, Austin Xu, Yilun Zhou, **Janvijay Singh**, Jialu Gui, Shafiq Joty. [Variation in Verification: Understanding Verification Dynamics in Large Language Models](https://arxiv.org/abs/2509.17995). *arXiv preprint*, September 2025.
