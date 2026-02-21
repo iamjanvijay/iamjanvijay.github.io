@@ -72,7 +72,7 @@ Takyoung Kim\*, **Janvijay Singh**\*, Shuhaib Mehri\*, Emre Can Acikgoz, Sagnik 
 
 **Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [Enhancing Textbooks with Visuals from the Web for Improved Learning](https://arxiv.org/pdf/2304.08931.pdf). *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)*, Singapore, December 2023.
 
-**Janvijay Singh**\*, Mukund Rungta\*, Diyi Yang, Saif Mohammad. [Forgotten Knowledge: Examining the Citational Amnesia in NLP](https://aclanthology.org/2023.acl-long.341v2.pdf). *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)*, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>.
+**Janvijay Singh**\*, Mukund Rungta\*, Diyi Yang, Saif Mohammad. [Forgotten Knowledge: Examining the Citational Amnesia in NLP](https://aclanthology.org/2023.acl-long.341v2.pdf). *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)*, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>
 
 **Janvijay Singh**, Fan Bai, Zhen Wang. [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://aclanthology.org/2023.eacl-main.90.pdf). *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)*, Dubrovnik, Croatia, May 2023.
 
@@ -83,9 +83,9 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
         <span class="toggle-text" onclick="toggleCareerContent()" id="career-toggle-button">Show more.</span>
     </span>
     <p id="career-more-content" style="display:none;">
-        <strong>Janvijay Singh</strong>, Anshul Wadhawan. <a href="https://aclanthology.org/2020.wnut-1.35.pdf">Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings</a>. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), at EMNLP 2020</i>, Online, November 2020. <span class="award-badge">Shared Task Winner</span>.
+        <strong>Janvijay Singh</strong>, Anshul Wadhawan. <a href="https://aclanthology.org/2020.wnut-1.35.pdf">Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings</a>. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), at EMNLP 2020</i>, Online, November 2020. <span class="award-badge">Shared Task Winner</span>
         <br><br>
-        <strong>Janvijay Singh</strong>. <a href="https://aclanthology.org/2020.finnlp-1.9.pdf">Sentence and List Extraction in Noisy PDF Text Using a Hybrid Deep Learning and Rule-Based Approach</a>. <i>Proceedings of the Second Workshop on Financial Technology and Natural Language Processing (FinNLP 2020) at IJCAI-PRICAI 2020</i>, Kyoto, Japan, January 2020. <span class="award-badge">Shared Task Winner</span>.
+        <strong>Janvijay Singh</strong>. <a href="https://aclanthology.org/2020.finnlp-1.9.pdf">Sentence and List Extraction in Noisy PDF Text Using a Hybrid Deep Learning and Rule-Based Approach</a>. <i>Proceedings of the Second Workshop on Financial Technology and Natural Language Processing (FinNLP 2020) at IJCAI-PRICAI 2020</i>, Kyoto, Japan, January 2020. <span class="award-badge">Shared Task Winner</span>
         <br><br>
         <strong>Janvijay Singh</strong>, Raviraj Joshi. <a href="https://ieeexplore.ieee.org/document/8906597">Background Sound Classification in Speech Audio Segments</a>. <i>Proceedings of the Tenth International Conference on Speech Technology and Human-Computer Dialogue (SpED 2019)</i>, Timișoara, Romania, October 2019.
         <br><br>
