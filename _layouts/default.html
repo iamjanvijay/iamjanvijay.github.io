@@ -21,15 +21,18 @@
       }
 
       .award-badge {
-        /* background-color: #FFD700; Gold background */
-        /* color: rgb(234, 199, 2); Text color */
-        color: #dba69e; /*#ffb400;*/
-        font-weight: bold; /* Bold text */
-        /* border-radius: 5px; Rounded corners */
-        /* padding: 4px 12px; Padding inside the badge */
-        display: inline-block; /* Necessary for inline placement */
-        /* font-size: 1em; Adjust the font size as needed */
-        /* height: 20px; Set the height of the badge */
+        color: #dba69e;
+        font-weight: bold;
+        display: inline-block;
+      
+        /* Primary outline */
+        -webkit-text-stroke: 0.6px #a85c74;
+      
+        /* Fallback for non-webkit browsers */
+        text-shadow: 0.5px 0 0 #a85c74,
+                     -0.5px 0 0 #a85c74,
+                     0 0.5px 0 #a85c74,
+                     0 -0.5px 0 #a85c74;
       }
 
       #more-content {
