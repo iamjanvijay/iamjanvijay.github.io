@@ -21,16 +21,12 @@
       }
 
 .award-badge {
-  color: #dba69e;        /* baby pink fill */
+  color: #dba69e;
   font-weight: 700;
   display: inline-block;
 
-  /* clean, subtle edge */
-  text-shadow:
-    0.6px 0   0 #a85c74,
-   -0.6px 0   0 #a85c74,
-    0   0.6px 0 #a85c74,
-    0  -0.6px 0 #a85c74;
+  -webkit-text-stroke: 0.25px #a85c74; /* hairline only */
+  text-shadow: 0 0 1px rgba(168, 92, 116, 0.35); /* softens edge */
 }
 
       #more-content {
