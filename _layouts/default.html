@@ -9,55 +9,52 @@
     <link rel="shortcut icon" href="/assets/img/letter_j.ico" type="image/x-icon">
 
     <style>
+      /* ===== Background Override ===== */
+      html, body {
+        background-color: #fffcf4 !important;
+      }
+
       /* Global link color override (fixes remaining blue links from theme CSS) */
       body a,
       body a:visited {
-        color: #955331 !important; /* Normal color */
+        color: #955331 !important;
       }
 
       body a:hover,
       body a:focus {
-        color: #773a1b !important; /* Color on hover */
+        color: #773a1b !important;
       }
 
-.award-badge {
-  color: #e4c4ca;
-  background: #94512c;
-  border: 1px solid #773a1b;
-  font-weight: 600;
-
-  padding: 0.01em 0.2em;
-  border-radius: 0.25em;    /* slightly tighter corners */
-
-  display: inline-block;
-}
+      .award-badge {
+        color: #e4c4ca;
+        background: #94512c;
+        border: 1px solid #773a1b;
+        font-weight: 600;
+        padding: 0.01em 0.2em;
+        border-radius: 0.25em;
+        display: inline-block;
+      }
 
       #more-content {
         display: none;
       }
 
-      #research-content {
-        margin-bottom: 20px; /* Adjust the value as needed */
-      }
-
-      #personal-content {
-        margin-bottom: 20px; /* Adjust the value as needed */
-      }
-
+      #research-content,
+      #personal-content,
       #career-content {
-        margin-bottom: 20px; /* Adjust the value as needed */
+        margin-bottom: 20px;
       }
 
       .toggle-text {
         cursor: pointer;
         text-decoration: underline;
         text-decoration-style: dotted;
-        color: #955331; /* Normal color */
+        color: #955331;
       }
 
       .toggle-text:hover {
-        color: #773a1b; /* Color on hover */
-        font-weight: bold; /* Bold font on hover */
+        color: #773a1b;
+        font-weight: bold;
       }
     </style>
 
@@ -69,88 +66,104 @@
     {% include head-custom.html %}
     <title> Home | Janvijay Singh </title>
   </head>
+
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>
+          <a href="{{ "/" | absolute_url }}">
+            {{ site.title | default: site.github.repository_name }}
+          </a>
+        </h1>
 
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Janvijay" width="640" height="auto" style="border-radius: 10px;" />
+        <img src="{{site.logo | relative_url}}" 
+             alt="Janvijay" 
+             width="640" 
+             height="auto" 
+             style="border-radius: 10px;" />
         {% endif %}
 
-        <p>PhD Candidate in Computer Science<br>
-        <a href="https://uiuc-conversational-ai-lab.github.io/team">Conversational AI Lab at UIUC</a> <br>
-        Champaign, Illinois
+        <p>
+          PhD Candidate in Computer Science<br>
+          <a href="https://uiuc-conversational-ai-lab.github.io/team">
+            Conversational AI Lab at UIUC
+          </a><br>
+          Champaign, Illinois
         </p>
 
         <table class="personal links" rules="none">
           <tr>
-              <td>
-                  <a href="/assets/files/janvijay_singh_resume.pdf">
-                      <font size="6"><strong>CV</strong></font>
-                  </a>
-              </td>
-              <td>
-                  <a href="https://twitter.com/iamjanvijay">
-                      <svg viewBox="0 0 24 24" aria-hidden="true" class="your-custom-class" width="30" height="30" aria-label="Twitter">
-                          <g>
-                              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
-                          </g>
-                      </svg>
-                  </a>
-              </td>
-              <td>
-                  <a href="https://scholar.google.com/citations?user=D5B5cysAAAAJ&hl=en">
-                      <img src="../assets/img/google-scholar.svg" alt="Google Scholar" width="30" height="auto" />
-                  </a>
-              </td>
-              <td>
-                  <a href="{{ site.github.owner_url }}">
-                      <img src="../assets/img/giticon.png" alt="GitHub" width="30" height="auto"/>
-                  </a>
-              </td>
+            <td>
+              <a href="/assets/files/janvijay_singh_resume.pdf">
+                <font size="6"><strong>CV</strong></font>
+              </a>
+            </td>
+            <td>
+              <a href="https://twitter.com/iamjanvijay">
+                <svg viewBox="0 0 24 24" width="30" height="30" aria-label="Twitter">
+                  <g>
+                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+                  </g>
+                </svg>
+              </a>
+            </td>
+            <td>
+              <a href="https://scholar.google.com/citations?user=D5B5cysAAAAJ&hl=en">
+                <img src="../assets/img/google-scholar.svg" 
+                     alt="Google Scholar" 
+                     width="30" 
+                     height="auto" />
+              </a>
+            </td>
+            <td>
+              <a href="{{ site.github.owner_url }}">
+                <img src="../assets/img/giticon.png" 
+                     alt="GitHub" 
+                     width="30" 
+                     height="auto"/>
+              </a>
+            </td>
           </tr>
-      </table>
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
+        </table>
       </header>
+
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>
+          This project is maintained by 
+          <a href="{{ site.github.owner_url }}">
+            {{ site.github.owner_name }}
+          </a>
+        </p>
         {% endif %}
-        <p><small>Last update: {{ site.time | date: '%m/%d/%Y' }}</small></p>
+        <p>
+          <small>Last update: {{ site.time | date: '%m/%d/%Y' }}</small>
+        </p>
       </footer>
     </div>
 
     <script>
       function toggleContent(moreId, briefId, buttonId) {
-          var moreContent = document.getElementById(moreId);
-          var briefContent = document.getElementById(briefId);
-          var button = document.getElementById(buttonId);
+        var moreContent = document.getElementById(moreId);
+        var briefContent = document.getElementById(briefId);
+        var button = document.getElementById(buttonId);
 
-          if (moreContent.style.display === "none" || moreContent.style.display === "") {
-              moreContent.style.display = "block";
-              briefContent.style.display = "none";
-              button.innerText = "Show less."; // Update button text
-          } else {
-              moreContent.style.display = "none";
-              briefContent.style.display = "block";
-              button.innerText = "Show more."; // Update button text
-          }
+        if (moreContent.style.display === "none" || moreContent.style.display === "") {
+          moreContent.style.display = "block";
+          briefContent.style.display = "none";
+          button.innerText = "Show less.";
+        } else {
+          moreContent.style.display = "none";
+          briefContent.style.display = "block";
+          button.innerText = "Show more.";
+        }
       }
 
-      // Separate functions for each section
       function toggleCareerContent() {
         toggleContent("career-more-content", "career-brief-content", "career-toggle-button");
       }
