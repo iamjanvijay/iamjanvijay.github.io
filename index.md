@@ -62,7 +62,7 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 # Publications & Preprints
 
-**Janvijay Singh**, Dilek Hakkani-Tur. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *arXiv preprint*, January 2026.
+**Janvijay Singh**, Dilek Hakkani-Tur. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
 
 **Janvijay Singh**, Austin Xu, Yilun Zhou, Yefan Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 2026.
 
