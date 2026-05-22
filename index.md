@@ -64,11 +64,15 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 **Janvijay Singh**, Dilek Hakkani-Tur. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
 
+**Janvijay Singh**, Dilek Hakkani-Tur. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
+
 **Janvijay Singh**, Austin Xu, Yilun Zhou, Yefan Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 2026.
 
 Yefan Zhou, Austin Xu, Yilun Zhou, **Janvijay Singh**, Jiang Gui, Shafiq Joty. [Variation in Verification: Understanding Verification Dynamics in Large Language Models](https://arxiv.org/abs/2509.17995). *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 2026.
 
-Takyoung Kim\*, **Janvijay Singh**\*, Shuhaib Mehri\*, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://arxiv.org/pdf/2505.01592). *Proceedings of the First Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM), at NeurIPS 2025*, San Diego, Decemeber 2025.
+<!-- Takyoung Kim\*, **Janvijay Singh**\*, Shuhaib Mehri\*, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://arxiv.org/pdf/2505.01592). *Proceedings of the First Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM), at NeurIPS 2025*, San Diego, Decemeber 2025. -->
+
+Takyoung Kim\*, **Janvijay Singh**\*, Shuhaib Mehri\*, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://doi.org/10.1109/TASLPRO.2026.3695295). *IEEE Transactions on Audio, Speech and Language Processing*, 2026.
 
 **Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [Enhancing Textbooks with Visuals from the Web for Improved Learning](https://arxiv.org/pdf/2304.08931.pdf). *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)*, Singapore, December 2023.
 
