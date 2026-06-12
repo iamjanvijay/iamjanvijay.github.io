@@ -1,5 +1,5 @@
 # About
-I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> at UIUC, advised by Prof. <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Dilek Hakkani-Tur</a> and Prof. <a href="https://www.linkedin.com/in/gokhan-tur-3294953/">Gokhan Tur</a>. Previously, I worked on social recommendation models at TikTok, personalized multimodal search at Verneek AI, and led speech recognition and synthesis research at Walmart India, contributing to a <a href="https://techcrunch.com/2020/06/09/walmarts-flipkart-rolls-out-voice-assistant-to-make-shopping-easier/">multilingual voice assistant</a>. Academically, I hold a Master's in Computer Science (Machine Learning) from Georgia Tech and a Bachelor's in Computer Science with top honors from IIT Varanasi. For further details, please refer to my CV.
+I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> at UIUC, advised by Prof. <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Dilek Hakkani-Tür</a> and Prof. <a href="https://www.linkedin.com/in/gokhan-tur-3294953/">Gokhan Tur</a>. Previously, I worked on social recommendation models at TikTok, personalized multimodal search at Verneek AI, and led speech recognition and synthesis research at Walmart India, contributing to a <a href="https://techcrunch.com/2020/06/09/walmarts-flipkart-rolls-out-voice-assistant-to-make-shopping-easier/">multilingual voice assistant</a>. Academically, I hold a Master's in Computer Science (Machine Learning) from Georgia Tech and a Bachelor's in Computer Science with top honors from IIT Varanasi. For further details, please refer to my CV.
 
 <!-- <div id="career-content">
     <strong>Career Trajectory:</strong>
@@ -62,33 +62,33 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 # Publications & Preprints
 
-Aniket Anand\*, **Janvijay Singh**\*, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster. [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526). *arXiv preprint*, May 2026.
+Aniket Anand=, **Janvijay Singh**=, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster. [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526). *arXiv preprint*, May 2026.
 
-Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness. *Proceedings of the Workshop on Towards Knowledgeable Foundation Models, at ACL 2026*, San Diego, United States, 2026.
+Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. <a>Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness</a>. *Proceedings of the Workshop on Towards Knowledgeable Foundation Models, at ACL 2026*, San Diego, United States, 2026.
 
-**Janvijay Singh**, Dilek Hakkani-Tur. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
+**Janvijay Singh**, Dilek Hakkani-Tür. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
 
-**Janvijay Singh**, Austin Xu, Yilun Zhou, Yefan Zhou, Dilek Hakkani-Tur, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 2026.
+**Janvijay Singh**, Austin Xu, Yilun Zhou, Yefan Zhou, Dilek Hakkani-Tür, Shafiq Joty. [On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward Compatibility, and Question Generalization](https://arxiv.org/abs/2509.23542). *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 2026.
 
 Yefan Zhou, Austin Xu, Yilun Zhou, **Janvijay Singh**, Jiang Gui, Shafiq Joty. [Variation in Verification: Understanding Verification Dynamics in Large Language Models](https://arxiv.org/abs/2509.17995). *Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 2026.
 
-<!-- Takyoung Kim\*, **Janvijay Singh**\*, Shuhaib Mehri\*, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://arxiv.org/pdf/2505.01592). *Proceedings of the First Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM), at NeurIPS 2025*, San Diego, Decemeber 2025. -->
+<!-- Takyoung Kim=, **Janvijay Singh**=, Shuhaib Mehri=, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://arxiv.org/pdf/2505.01592). *Proceedings of the First Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM), at NeurIPS 2025*, San Diego, Decemeber 2025. -->
 
-Takyoung Kim\*, **Janvijay Singh**\*, Shuhaib Mehri\*, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://doi.org/10.1109/TASLPRO.2026.3695295). *IEEE Transactions on Audio, Speech and Language Processing*, 2026. Also presented at *MTI-LLM at NeurIPS 2025*, San Diego, Decemeber 2025.
-
-**Janvijay Singh**, Vilém Zouhar, Mrinmaya Sachan. [Enhancing Textbooks with Visuals from the Web for Improved Learning](https://arxiv.org/pdf/2304.08931.pdf). *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)*, Singapore, December 2023.
-
-**Janvijay Singh**\*, Mukund Rungta\*, Diyi Yang, Saif Mohammad. [Forgotten Knowledge: Examining the Citational Amnesia in NLP](https://aclanthology.org/2023.acl-long.341v2.pdf). *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)*, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>
-
-**Janvijay Singh**, Fan Bai, Zhen Wang. [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://aclanthology.org/2023.eacl-main.90.pdf). *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)*, Dubrovnik, Croatia, May 2023.
-
-Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89.pdf). *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)*, Abu Dhabi, UAE, December 2022.
+Takyoung Kim=, **Janvijay Singh**=, Shuhaib Mehri=, Emre Can Acikgoz, Sagnik Mukherjee, Nimet Beyza Bozdag, Sumuk Shashidhar, Gokhan Tur, Dilek Hakkani-Tür. [AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents](https://doi.org/10.1109/TASLPRO.2026.3695295). *IEEE Transactions on Audio, Speech and Language Processing*, 2026. Also presented at *MTI-LLM at NeurIPS 2025*, San Diego, Decemeber 2025.
 
 <div id="career-content">
     <span id="career-brief-content">
         <span class="toggle-text" onclick="toggleCareerContent()" id="career-toggle-button">Show more.</span>
     </span>
     <p id="career-more-content" style="display:none;">
+        <strong>Janvijay Singh</strong>, Vilém Zouhar, Mrinmaya Sachan. <a href="https://arxiv.org/pdf/2304.08931.pdf">Enhancing Textbooks with Visuals from the Web for Improved Learning</a>. <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)</i>, Singapore, December 2023.
+        <br><br>
+        <strong>Janvijay Singh</strong>=, Mukund Rungta=, Diyi Yang, Saif Mohammad. <a href="https://aclanthology.org/2023.acl-long.341v2.pdf">Forgotten Knowledge: Examining the Citational Amnesia in NLP</a>. <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)</i>, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>
+        <br><br>
+        <strong>Janvijay Singh</strong>, Fan Bai, Zhen Wang. <a href="https://aclanthology.org/2023.eacl-main.90.pdf">Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding</a>. <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)</i>, Dubrovnik, Croatia, May 2023.
+        <br><br>
+        Mukund Rungta=, <strong>Janvijay Singh</strong>=, Saif Mohammad, Diyi Yang. <a href="https://aclanthology.org/2022.emnlp-main.89.pdf">Geographic Citation Gaps in NLP Research</a>. <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, Main)</i>, Abu Dhabi, UAE, December 2022.
+        <br><br>
         <strong>Janvijay Singh</strong>, Anshul Wadhawan. <a href="https://aclanthology.org/2020.wnut-1.35.pdf">Entity Recognition in Wet Lab Protocols using Structured Learning Ensemble and Contextualised Embeddings</a>. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020), at EMNLP 2020</i>, Online, November 2020. <span class="award-badge">Shared Task Winner</span>
         <br><br>
         <strong>Janvijay Singh</strong>. <a href="https://aclanthology.org/2020.finnlp-1.9.pdf">Sentence and List Extraction in Noisy PDF Text Using a Hybrid Deep Learning and Rule-Based Approach</a>. <i>Proceedings of the Second Workshop on Financial Technology and Natural Language Processing (FinNLP 2020) at IJCAI-PRICAI 2020</i>, Kyoto, Japan, January 2020. <span class="award-badge">Shared Task Winner</span>
@@ -99,7 +99,7 @@ Mukund Rungta\*, **Janvijay Singh**\*, Saif Mohammad, Diyi Yang. [Geographic Cit
     </p>
 </div>
 
-\* denotes equal author contribution.
+= denotes equal author contribution.
 
 # Teaching
 
