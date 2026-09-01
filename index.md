@@ -62,9 +62,9 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 # Publications & Preprints
 
-Aniket Anand=, **Janvijay Singh**=, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster. [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526). *arXiv preprint*, May 2026.
+Aniket Anand=, **Janvijay Singh**=, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster. [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526). *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, Main)*, Budapest, Hungary, October 2026.
 
-Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. <a>Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness</a>. *Proceedings of the Workshop on Towards Knowledgeable Foundation Models, at ACL 2026*, San Diego, United States, 2026.
+Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. <a>Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness</a>. *Proceedings of the Conference on Language Modeling (COLM 2026)*, San Francisco, United States, October 2026. Also presented at *KnowFM at ACL 2026*, San Diego, July 2026.
 
 **Janvijay Singh**, Dilek Hakkani-Tür. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
 
