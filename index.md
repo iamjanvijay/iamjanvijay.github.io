@@ -64,7 +64,7 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 Aniket Anand=, **Janvijay Singh**=, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster. [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526). *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, Main)*, Budapest, Hungary, October 2026.
 
-Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. <a>Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness</a>. *Proceedings of the Conference on Language Modeling (COLM 2026)*, San Francisco, United States, October 2026. Also presented at *KnowFM at ACL 2026*, San Diego, July 2026.
+Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. <a>Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness</a>. *Proceedings of the Conference on Language Modeling (COLM 2026)*, San Francisco, United States, October 2026. Also presented at *KnowFM at ACL 2026*, San Diego, July 2026. <span class="award-badge"><a href="https://knowledgeable-lm.github.io/">Best Paper Award</a></span>
 
 **Janvijay Singh**, Dilek Hakkani-Tür. [Do LLMs Encode Functional Importance of Reasoning Tokens?](https://arxiv.org/abs/2601.03066). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Main)*, San Diego, United States, July 2026.
 
@@ -83,7 +83,7 @@ Takyoung Kim=, **Janvijay Singh**=, Shuhaib Mehri=, Emre Can Acikgoz, Sagnik Muk
     <p id="career-more-content" style="display:none;">
         <strong>Janvijay Singh</strong>, Vilém Zouhar, Mrinmaya Sachan. <a href="https://arxiv.org/pdf/2304.08931.pdf">Enhancing Textbooks with Visuals from the Web for Improved Learning</a>. <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, Main)</i>, Singapore, December 2023.
         <br><br>
-        <strong>Janvijay Singh</strong>=, Mukund Rungta=, Diyi Yang, Saif Mohammad. <a href="https://aclanthology.org/2023.acl-long.341v2.pdf">Forgotten Knowledge: Examining the Citational Amnesia in NLP</a>. <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)</i>, Toronto, Canada, July 2023. <span class="award-badge">Best Paper Honourable Mention</span>
+        <strong>Janvijay Singh</strong>=, Mukund Rungta=, Diyi Yang, Saif Mohammad. <a href="https://aclanthology.org/2023.acl-long.341v2.pdf">Forgotten Knowledge: Examining the Citational Amnesia in NLP</a>. <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023, Main)</i>, Toronto, Canada, July 2023. <span class="award-badge"><a href="https://2023.aclweb.org/program/best_papers/">Best Paper Honourable Mention</a></span>
         <br><br>
         <strong>Janvijay Singh</strong>, Fan Bai, Zhen Wang. <a href="https://aclanthology.org/2023.eacl-main.90.pdf">Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding</a>. <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023, Main)</i>, Dubrovnik, Croatia, May 2023.
         <br><br>
