@@ -62,6 +62,8 @@ I'm a CS PhD Candidate in the <a href="https://uiuc-conversational-ai-lab.github
 
 # Publications & Preprints
 
+**Janvijay Singh**, Vaishnavi Shrivastava, Dilek Hakkani-Tür, Ece Kamar, Asli Celikyilmaz. [When Successful Strategies Fail: Adaptation to Environmental Novelty in Terminal Agents](https://arxiv.org/abs/2609.33870). *arXiv preprint*, September 2026.
+
 Aniket Anand=, **Janvijay Singh**=, Zhewei Sun, Dilek Hakkani-Tür, Nick Feamster. [Measuring, Localizing, and Ablating Alignment Signatures in LLMs](https://arxiv.org/abs/2605.30526). *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, Main)*, Budapest, Hungary, October 2026.
 
 Pardis Sadat Zahraei, **Janvijay Singh**, Gokhan Tur, Dilek Hakkani-Tür. <a>Emergent Unfaithfulness: How Alignment Training Causes Language Models to Silently Override Task Faithfulness</a>. *Proceedings of the Conference on Language Modeling (COLM 2026)*, San Francisco, United States, October 2026. Also presented at *KnowFM at ACL 2026*, San Diego, July 2026. <span class="award-badge"><a href="https://knowledgeable-lm.github.io/">Outstanding Paper Award</a></span>
